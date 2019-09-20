@@ -1,0 +1,1 @@
+A simple couple of documents, meant to act as a simple api to serve a random image from a directory to whoever requests it
